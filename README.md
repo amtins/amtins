@@ -19,3 +19,7 @@ println(sayHelloWorld())
 // prints "Hello, world"
 // you've just seen how good I am at Swift.
 ```
+
+That's what a A+ developer looks like
+
+![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=amtins&theme=radical&show_icons=true&count_private=true)
