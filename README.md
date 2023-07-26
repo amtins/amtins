@@ -1,25 +1,54 @@
-### Hi, Hola, Bom dia, Bonjour, I'm André 👋
+<h2>👋 Hi, Hola, Bom dia, Bonjour</h2>
 
+<p align="center">
+  <img src="https://i.imgur.com/dkLxk8e.gif" />
+</p>
 
-- 🔭 I’m currently working on the best web player on the world
-- 🌱 I’m currently learning Swift
-- 👯 I’m looking to collaborate on Swift performance improvement
-- 🤔 I’m looking for help with my iPhone
-- 💬 Ask me about Swift or any Apple related stuff (I'm really good at it)
-- 📫 How to reach me: Just think of me and I appear
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Apple is the most amazing thing that has ever happened to mankind. As you know, an apple a day keeps the doctor away...
+<h3>
+Who am I❔
+</h3>
 
-```swift
-func sayHelloWorld() -> String {
-    return "Hello, world"
+ <p>
+    <b>André</b> <sup><i>(a random guy on the Internet)</i></sup> • <b>Software developer</b> <sup><i>not an A+, a proud solid C-</i></sup> •
+    <b>Anime junky</b>
+ </p>
+
+<h3>
+⚙️ I'm currently working on
+</h3>
+
+<img  src="https://img.shields.io/badge/Making%20cool%20stuff-FAILED-red">
+
+```go
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+    // I love Go and the small nuts operator
+    is_true := false
+    is_false := true
+
+    if is_true != is_false {
+		fmt.Println("is_true is truly true")
+	}
 }
-
-println(sayHelloWorld())
-// prints "Hello, world"
-// you've just seen how good I am at Swift.
 ```
 
-That's what a A+ developer looks like
+<h3>⚠️⛔ Trigger Warning ⛔⚠️</h3>
 
-![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=amtins&theme=radical&show_icons=true&count_private=true)
+
+<details>
+<summary>Unpopular opinion</summary>
+
+<img src="https://media.tenor.com/DUfG0zMcLH4AAAAC/danmachi-punch.gif">
+
+<p>
+<b>Javascript</b> <sub>TypeScript</sub> is not for backend <br>
+<b>TypeScript</b> why ... <br>
+<b>One Piece</b> and <b>Naruto</b> are the worst anime ever
+</p>
+</details>
+
