@@ -27,11 +27,11 @@ import (
 )
 
 func main() {
-    // I love Go and the small nuts operator
-    is_true := false
-    is_false := true
+	// I love Go and the small nuts operator
+	is_true := false
+	is_false := true
 
-    if is_true != is_false {
+	if is_true != is_false {
 		fmt.Println("is_true is truly true")
 	}
 }
