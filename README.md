@@ -10,7 +10,7 @@ Who am I❔
 
  <p>
     <b>André</b> <sup><i>(a random guy on the Internet)</i></sup> • <b>Software developer</b> <sup><i>not an A+, a proud solid C-</i></sup> •
-    <b>Anime junky</b>
+    <b>Anime junkie</b>
  </p>
 
 <h3>
